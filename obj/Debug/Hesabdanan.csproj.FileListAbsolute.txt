@@ -1,0 +1,10 @@
+D:\sedaghat\New folder\hesabdanan\bin\Debug\Hesabdanan.exe.config
+D:\sedaghat\New folder\hesabdanan\bin\Debug\Hesabdanan.exe
+D:\sedaghat\New folder\hesabdanan\bin\Debug\Hesabdanan.pdb
+D:\sedaghat\New folder\hesabdanan\obj\Debug\Hesabdanan.csproj.AssemblyReference.cache
+D:\sedaghat\New folder\hesabdanan\obj\Debug\Hesabdanan.Form1.resources
+D:\sedaghat\New folder\hesabdanan\obj\Debug\Hesabdanan.Properties.Resources.resources
+D:\sedaghat\New folder\hesabdanan\obj\Debug\Hesabdanan.csproj.GenerateResource.cache
+D:\sedaghat\New folder\hesabdanan\obj\Debug\Hesabdanan.csproj.CoreCompileInputs.cache
+D:\sedaghat\New folder\hesabdanan\obj\Debug\Hesabdanan.exe
+D:\sedaghat\New folder\hesabdanan\obj\Debug\Hesabdanan.pdb
