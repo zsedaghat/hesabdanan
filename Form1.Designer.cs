@@ -38,48 +38,52 @@
             // 
             // textBox1
             // 
-            this.textBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.textBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.textBox1.Font = new System.Drawing.Font("Perpetua", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.Location = new System.Drawing.Point(180, 66);
+            this.textBox1.Location = new System.Drawing.Point(429, 123);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(6);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(158, 26);
+            this.textBox1.ReadOnly = true;
+            this.textBox1.Size = new System.Drawing.Size(307, 44);
             this.textBox1.TabIndex = 0;
             this.textBox1.Text = "Bank List";
             this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.textBox1.UseWaitCursor = true;
             // 
             // textBox2
             // 
-            this.textBox2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.textBox2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.textBox2.Font = new System.Drawing.Font("Perpetua", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox2.Location = new System.Drawing.Point(180, 153);
+            this.textBox2.Location = new System.Drawing.Point(424, 294);
+            this.textBox2.Margin = new System.Windows.Forms.Padding(6);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(158, 26);
+            this.textBox2.ReadOnly = true;
+            this.textBox2.Size = new System.Drawing.Size(312, 44);
             this.textBox2.TabIndex = 1;
             this.textBox2.Text = "Seller List";
             this.textBox2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.textBox2.UseWaitCursor = true;
             // 
             // UploadBank
             // 
-            this.UploadBank.Location = new System.Drawing.Point(400, 64);
+            this.UploadBank.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.UploadBank.Location = new System.Drawing.Point(931, 123);
+            this.UploadBank.Margin = new System.Windows.Forms.Padding(6);
             this.UploadBank.Name = "UploadBank";
-            this.UploadBank.Size = new System.Drawing.Size(86, 26);
+            this.UploadBank.Size = new System.Drawing.Size(172, 50);
             this.UploadBank.TabIndex = 2;
             this.UploadBank.Text = "Browse";
             this.UploadBank.UseVisualStyleBackColor = true;
-            this.UploadBank.UseWaitCursor = true;
             this.UploadBank.Click += new System.EventHandler(this.UploadBank_Click);
             // 
             // UploadSeller
             // 
-            this.UploadSeller.Location = new System.Drawing.Point(400, 153);
+            this.UploadSeller.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.UploadSeller.Location = new System.Drawing.Point(931, 279);
+            this.UploadSeller.Margin = new System.Windows.Forms.Padding(6);
             this.UploadSeller.Name = "UploadSeller";
-            this.UploadSeller.Size = new System.Drawing.Size(86, 26);
+            this.UploadSeller.Size = new System.Drawing.Size(172, 50);
             this.UploadSeller.TabIndex = 3;
             this.UploadSeller.Text = "Browse";
             this.UploadSeller.UseVisualStyleBackColor = true;
-            this.UploadSeller.UseWaitCursor = true;
             this.UploadSeller.Click += new System.EventHandler(this.UploadSeller_Click);
             // 
             // openFileDialog1
@@ -88,28 +92,31 @@
             // 
             // calculation
             // 
-            this.calculation.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.calculation.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
             this.calculation.Font = new System.Drawing.Font("Perpetua", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.calculation.Location = new System.Drawing.Point(300, 240);
+            this.calculation.Location = new System.Drawing.Point(605, 474);
+            this.calculation.Margin = new System.Windows.Forms.Padding(6);
             this.calculation.Name = "calculation";
-            this.calculation.Size = new System.Drawing.Size(146, 49);
+            this.calculation.Size = new System.Drawing.Size(398, 109);
             this.calculation.TabIndex = 4;
             this.calculation.Text = "calculation";
             this.calculation.UseVisualStyleBackColor = false;
+            this.calculation.Click += new System.EventHandler(this.calculation_Click);
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1600, 865);
             this.Controls.Add(this.calculation);
             this.Controls.Add(this.UploadSeller);
             this.Controls.Add(this.UploadBank);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.textBox1);
+            this.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.Margin = new System.Windows.Forms.Padding(6);
             this.Name = "Form1";
             this.Text = "Hesabdanan";
-            this.UseWaitCursor = true;
             this.ResumeLayout(false);
             this.PerformLayout();
 

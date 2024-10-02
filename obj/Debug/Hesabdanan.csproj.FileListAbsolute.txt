@@ -8,3 +8,37 @@ D:\sedaghat\New folder\hesabdanan\obj\Debug\Hesabdanan.csproj.GenerateResource.c
 D:\sedaghat\New folder\hesabdanan\obj\Debug\Hesabdanan.csproj.CoreCompileInputs.cache
 D:\sedaghat\New folder\hesabdanan\obj\Debug\Hesabdanan.exe
 D:\sedaghat\New folder\hesabdanan\obj\Debug\Hesabdanan.pdb
+D:\Zeinab Files\hesabdanan git\hesabdanan\bin\Debug\Hesabdanan.exe.config
+D:\Zeinab Files\hesabdanan git\hesabdanan\bin\Debug\Hesabdanan.exe
+D:\Zeinab Files\hesabdanan git\hesabdanan\bin\Debug\Hesabdanan.pdb
+D:\Zeinab Files\hesabdanan git\hesabdanan\bin\Debug\ExcelDataReader.dll
+D:\Zeinab Files\hesabdanan git\hesabdanan\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\Zeinab Files\hesabdanan git\hesabdanan\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Zeinab Files\hesabdanan git\hesabdanan\bin\Debug\System.Buffers.dll
+D:\Zeinab Files\hesabdanan git\hesabdanan\bin\Debug\System.IO.Pipelines.dll
+D:\Zeinab Files\hesabdanan git\hesabdanan\bin\Debug\System.Memory.dll
+D:\Zeinab Files\hesabdanan git\hesabdanan\bin\Debug\System.Numerics.Vectors.dll
+D:\Zeinab Files\hesabdanan git\hesabdanan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Zeinab Files\hesabdanan git\hesabdanan\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Zeinab Files\hesabdanan git\hesabdanan\bin\Debug\ExcelDataReader.pdb
+D:\Zeinab Files\hesabdanan git\hesabdanan\bin\Debug\ExcelDataReader.xml
+D:\Zeinab Files\hesabdanan git\hesabdanan\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+D:\Zeinab Files\hesabdanan git\hesabdanan\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Zeinab Files\hesabdanan git\hesabdanan\bin\Debug\System.Buffers.xml
+D:\Zeinab Files\hesabdanan git\hesabdanan\bin\Debug\System.IO.Pipelines.xml
+D:\Zeinab Files\hesabdanan git\hesabdanan\bin\Debug\System.Memory.xml
+D:\Zeinab Files\hesabdanan git\hesabdanan\bin\Debug\System.Numerics.Vectors.xml
+D:\Zeinab Files\hesabdanan git\hesabdanan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Zeinab Files\hesabdanan git\hesabdanan\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Zeinab Files\hesabdanan git\hesabdanan\obj\Debug\Hesabdanan.csproj.AssemblyReference.cache
+D:\Zeinab Files\hesabdanan git\hesabdanan\obj\Debug\Hesabdanan.Form1.resources
+D:\Zeinab Files\hesabdanan git\hesabdanan\obj\Debug\Hesabdanan.Properties.Resources.resources
+D:\Zeinab Files\hesabdanan git\hesabdanan\obj\Debug\Hesabdanan.csproj.GenerateResource.cache
+D:\Zeinab Files\hesabdanan git\hesabdanan\obj\Debug\Hesabdanan.csproj.CoreCompileInputs.cache
+D:\Zeinab Files\hesabdanan git\hesabdanan\obj\Debug\Hesabdanan.csproj.Up2Date
+D:\Zeinab Files\hesabdanan git\hesabdanan\obj\Debug\Hesabdanan.exe
+D:\Zeinab Files\hesabdanan git\hesabdanan\obj\Debug\Hesabdanan.pdb
+D:\Zeinab Files\hesabdanan git\hesabdanan\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\Zeinab Files\hesabdanan git\hesabdanan\bin\Debug\Spire.XLS.dll
+D:\Zeinab Files\hesabdanan git\hesabdanan\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\Zeinab Files\hesabdanan git\hesabdanan\bin\Debug\Spire.XLS.xml
